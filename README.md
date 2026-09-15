@@ -4,6 +4,12 @@
 
 This project analyses pizza sales data using SQL to extract insights related to customer behaviour, sales performance, and revenue trends. The findings were then brought into an interactive Power BI dashboard, with KPIs, product and category breakdowns, and a 30-day revenue forecast.
 
+## Dashboard Preview
+
+![Dashboard Screenshot](Pizza%20Sales%20Analysis.png)
+
+The full interactive Power BI file is available here: [Pizza Sales Analysis.pbix](Pizza%20Sales%20Analysis.pbix)
+
 ## Business Questions Addressed
 
 - Total number of orders placed and total revenue generated
