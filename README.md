@@ -6,7 +6,7 @@ This project analyses pizza sales data using SQL to extract insights related to 
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Pizza%20Sales%20Analysis.png)
+![Dashboard Screenshot](Pizza%20Sales%20Dashboard.png)
 
 The full interactive Power BI file is available here: [Pizza Sales Analysis.pbix](Pizza%20Sales%20Analysis.pbix)
 
